@@ -11,6 +11,7 @@ Examples:
 |name       |address |language |
 |SaiGanesh  |Banglore|Telugu   |
 |Hithaishini|KGF     |Kannada  |
+|Rakshi     |BEML    |Hindi    |
 
 
 @DeletePlace
