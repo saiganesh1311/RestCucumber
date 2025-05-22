@@ -42,7 +42,7 @@ public class Utils {
 	public static String getGlobalValue(String key) throws IOException
 	{
 		Properties p= new Properties();
-		FileInputStream fis= new FileInputStream("C:\\Users\\K.Sai Ganesh\\eclipse-workspace\\RestCucumber\\src\\test\\java\\resources\\global.properties");
+		FileInputStream fis= new FileInputStream("C:\\Users\\ksai.ganesh\\git\\RestCucumber\\src\\test\\java\\resources\\global.properties");
 		p.load(fis);
 		return p.getProperty(key);
 		}
